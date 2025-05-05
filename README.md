@@ -113,9 +113,6 @@ A simple and customizable password generator app built using React Native. The a
 - User-friendly interface with **BouncyCheckbox**
 - Long-press to copy generated password
 
-## 📱 Screenshots
-(Add screenshots here if you have them)
-
 ## 🛠️ Built With
 
 - React Native
