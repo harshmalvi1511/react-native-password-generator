@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -95,3 +96,39 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+=======
+# 🔐 React Native Password Generator
+
+A simple and customizable password generator app built using React Native. The app allows users to create secure passwords by specifying desired length and selecting character types such as uppercase letters, lowercase letters, numbers, and symbols.
+
+## 🚀 Features
+
+- Generate random passwords from 4 to 16 characters
+- Toggle options for:
+  - Uppercase letters
+  - Lowercase letters
+  - Numbers
+  - Symbols
+- Form validation using **Formik** and **Yup**
+- User-friendly interface with **BouncyCheckbox**
+- Long-press to copy generated password
+
+## 📱 Screenshots
+(Add screenshots here if you have them)
+
+## 🛠️ Built With
+
+- React Native
+- TypeScript
+- Formik
+- Yup
+- BouncyCheckbox
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/react-native-password-generator.git
+cd react-native-password-generator
+npm install
+npx react-native run-android # or run-ios
+>>>>>>> cf7569696ec32bde83ddde6480848d2f29b82fdd
